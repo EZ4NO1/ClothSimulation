@@ -1,0 +1,55 @@
+﻿  AirPillow.cpp
+D:\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+E:\Program Files\cpplib\include\glad\glad.h(32): message : 参见“APIENTRY”的前一个定义
+C:\Users\82123\source\repos\ClothSimulation\ClothSimulation\Cloth.h(31,22): warning C4305: “初始化”: 从“double”到“float”截断
+  Cloth.cpp
+D:\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+E:\Program Files\cpplib\include\glad\glad.h(32): message : 参见“APIENTRY”的前一个定义
+C:\Users\82123\source\repos\ClothSimulation\ClothSimulation\Cloth.h(31,22): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\82123\source\repos\ClothSimulation\ClothSimulation\Cloth.cpp(8,29): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\82123\source\repos\ClothSimulation\ClothSimulation\Cloth.cpp(28,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\82123\source\repos\ClothSimulation\ClothSimulation\Cloth.cpp(184,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  collisionobject.cpp
+D:\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+E:\Program Files\cpplib\include\glad\glad.h(32): message : 参见“APIENTRY”的前一个定义
+  OBBTreeNode.cpp
+D:\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+E:\Program Files\cpplib\include\glad\glad.h(32): message : 参见“APIENTRY”的前一个定义
+C:\Users\82123\source\repos\ClothSimulation\ClothSimulation\Cloth.h(31,22): warning C4305: “初始化”: 从“double”到“float”截断
+  Particle.cpp
+D:\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+E:\Program Files\cpplib\include\glad\glad.h(32): message : 参见“APIENTRY”的前一个定义
+  Main.cpp
+D:\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+E:\Program Files\cpplib\include\glad\glad.h(32): message : 参见“APIENTRY”的前一个定义
+C:\Users\82123\source\repos\ClothSimulation\ClothSimulation\Cloth.h(31,22): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\82123\source\repos\ClothSimulation\ClothSimulation\Plane.h(17,21): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\82123\source\repos\ClothSimulation\ClothSimulation\Plane.h(18,19): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\82123\source\repos\ClothSimulation\ClothSimulation\Main.cpp(52,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\82123\source\repos\ClothSimulation\ClothSimulation\Main.cpp(76,84): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\82123\source\repos\ClothSimulation\ClothSimulation\Main.cpp(96,102): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\82123\source\repos\ClothSimulation\ClothSimulation\Main.cpp(126,21): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\82123\source\repos\ClothSimulation\ClothSimulation\Main.cpp(184,88): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\82123\source\repos\ClothSimulation\ClothSimulation\Main.cpp(203,100): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\82123\source\repos\ClothSimulation\ClothSimulation\Main.cpp(204,100): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\82123\source\repos\ClothSimulation\ClothSimulation\Main.cpp(234,97): warning C4305: “参数”: 从“double”到“float”截断
+C:\Users\82123\source\repos\ClothSimulation\ClothSimulation\Main.cpp(287,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\82123\source\repos\ClothSimulation\ClothSimulation\Main.cpp(316,35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Plane.cpp
+D:\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+E:\Program Files\cpplib\include\glad\glad.h(32): message : 参见“APIENTRY”的前一个定义
+C:\Users\82123\source\repos\ClothSimulation\ClothSimulation\Plane.h(17,21): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\82123\source\repos\ClothSimulation\ClothSimulation\Plane.h(18,19): warning C4305: “初始化”: 从“double”到“float”截断
+  Shader.cpp
+D:\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+E:\Program Files\cpplib\include\glad\glad.h(32): message : 参见“APIENTRY”的前一个定义
+  sphere.cpp
+D:\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+E:\Program Files\cpplib\include\glad\glad.h(32): message : 参见“APIENTRY”的前一个定义
+  text.cpp
+D:\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+E:\Program Files\cpplib\include\glad\glad.h(32): message : 参见“APIENTRY”的前一个定义
+C:\Users\82123\source\repos\ClothSimulation\ClothSimulation\text.cpp(62,33): warning C4838: 从“FT_Pos”转换到“unsigned int”需要收缩转换
+  正在生成代码...
+  glad.c
+  ClothSimulation.vcxproj -> C:\Users\82123\source\repos\ClothSimulation\x64\Debug\ClothSimulation.exe

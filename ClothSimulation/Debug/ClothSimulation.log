@@ -1,0 +1,5 @@
+﻿  Main.cpp
+D:\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+C:\Users\82123\source\repos\ClothSimulation\packages\glfw.3.3.2\build\native\include\GLFW\glfw3.h(123): message : 参见“APIENTRY”的前一个定义
+Main.obj : error LNK2019: 无法解析的外部符号 __imp__glGetString@4，该符号在函数 _main 中被引用
+C:\Users\82123\source\repos\ClothSimulation\Debug\ClothSimulation.exe : fatal error LNK1120: 1 个无法解析的外部命令
